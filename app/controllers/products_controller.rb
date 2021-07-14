@@ -1,7 +1,8 @@
 class ProductsController < ApplicationController
+
     def index
         @products = Product.all 
-        render json: @events
+        render json: @products
     end
 
     def show
