@@ -5,11 +5,11 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-# Product.destroy_all
+Product.destroy_all
 
 ph = Product.create(
     name: 'Phone Holder',
-    description: 'Attaches to the dashboard with no damage. Place anyway and see your phone, directions, etc.',
+    description: 'Attaches to the dashboard with no damage.',
     image: "https://i.pinimg.com/originals/19/f1/1d/19f11dd0629990ca1d8119f2c0cfbd1b.jpg"
 )
 af = Product.create(
@@ -37,3 +37,62 @@ led = Product.create(
     description: 'Light it up.',
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDbSDSPkIEOxtyLRF2VrnSLgFGbx6kyOunQ&usqp=CAU"
 )
+
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+plh = Product.create(
+    name: 'place-holder',
+    description: 'place-holder.',
+    image: "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg"
+)
+
+
+
